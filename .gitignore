@@ -3,6 +3,7 @@
 /.pnp
 .pnp.js
 
+
 # Testing
 /coverage
 
@@ -26,7 +27,7 @@ yarn-error.log*
 .idea/
 .vscode/
 *.swp
-*.swo
+*.swo cs
 
 # OS
 .DS_Store
@@ -39,3 +40,8 @@ yarn-error.log*
 
 # Optional
 .eslintcache 
+
+node_modules/
+*.log
+.env
+.DS_Store
